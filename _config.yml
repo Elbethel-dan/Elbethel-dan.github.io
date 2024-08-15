@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Elbethel Daniel Zewdie | ኤልቤቴል ዳንኤል ዘውዴ"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,8 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Elbethel Daniel Zewdie"
   pronouns         : # example: "she/her"  
-  bio              : "AI MSc student at AAiT. Working on Deep Learning, Machine Learning, and Natural Language Processing."
-  location         : "Earth"
+  bio              : "AI MSc student at AAiT. Working on Deep Learning, Machine Learning, and NLP."
   employer         : "Addis Ababa University"
   uri              : # URL
   email            : "elbetheldaniel8@gmail.com" 
