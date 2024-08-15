@@ -25,13 +25,13 @@ author:
   name             : "Elbethel Daniel Zewdie"
   pronouns         : # example: "she/her"  
   bio              : "AI MSc student at AAiT. Working on Deep Learning, Machine Learning, and NLP."
-  employer         : "Addis Ababa University"
+  employer         : 
   uri              : # URL
   email            : "elbetheldaniel8@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=kTrEXt8AAAAJ&hl=en"
-  orcid            : "https://orcid.org/0009-0002-1594-9756"
+  orcid            : 
   researchgate     : "https://www.researchgate.net/profile/Elbethel-Zewdie"
 
   # Repositories and software development
