@@ -18,4 +18,5 @@ Outside of academia, I enjoy reading📖, playing basketball🏀, and spending t
 News
 ------
 
-I am currently engaged in a year-long research project evaluating gender bias in machine translation. This program is generously supported by the [FAccT DEI Scholars]("https://facctconference.org/2024/deischolars/") 2024 and led by [Hellina Hailu Nigatu]("https://hhnigatu.github.io/").
+I am currently engaged in a year-long research project evaluating gender bias in machine translation. This program is generously supported by the [FAccT DEI Scholars]("https://facctconference.org/2024/deischolars") 2024 and led by 
+[Hellina Hailu Nigatu]("https://hhnigatu.github.io/").
