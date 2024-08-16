@@ -8,11 +8,8 @@ redirect_from:
 ---
 
 
-As an MSc AI student at Addis Ababa University, I am delving deeper into the field after completing my Software Engineering degree at Wolkite University, Ethiopia. My current research focuses on the critical issue of gender bias in machine translation.
+I am pursuing a Master's degree in Artificial Intelligence at Addis Ababa University, building upon my undergraduate foundation in Software Engineering from Wolkite University, completed in 2021. 
 
-As an MSc AI student at Addis Ababa University, I am delving deeper into the field after completing my Software Engineering degree at Wolkite University, Ethiopia. My current research focuses on the critical issue of gender bias in machine translation.
+My research is currently focused on addressing gender bias in machine translation systems. I am particularly interested in leveraging deep learning to develop practical AI solutions for real-world challenges. Additionally, I am exploring the potential of generative AI and its emerging applications.
 
-
-As an MSc AI student at Addis Ababa University, I am delving deeper into the field after completing my Software Engineering degree at Wolkite University, Ethiopia. My current research focuses on the critical issue of gender bias in machine translation.
-
-
+Outside of academia, I enjoy reading📖, playing basketball🏀, and spending time with loved ones.
