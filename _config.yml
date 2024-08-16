@@ -31,7 +31,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=kTrEXt8AAAAJ&hl=en"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0002-1594-9756"
   researchgate     : "https://www.researchgate.net/profile/Elbethel-Zewdie"
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/elbethel-daniel-b722ba164/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
