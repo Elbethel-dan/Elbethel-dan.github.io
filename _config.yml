@@ -21,7 +21,7 @@ repository               : "Elbethel-dan/Elbethel-dan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ko.png"
+  avatar           : "ele-min.png"
   name             : "Elbethel Daniel Zewdie"
   pronouns         : # example: "she/her"  
   bio              : "AI MSc student at AAiT. Interested in Deep Learning, Machine Learning, and NLP."
